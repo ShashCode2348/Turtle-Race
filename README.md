@@ -1,4 +1,5 @@
-# Turtle-Race
-Turtle Race is a Python programme that introduces 10 turtles and races them against each other at random speeds, using the Turtle module.
+# Turtle Race
 
-![](https://view-counter.tobyhagan.com/?user=ShashCode2348/Turtle-Race)
+Turtle Race is a Python programme, made with the `turtle` module, that introduces 10 turtles and races them against each other at random speeds.
+
+![View Counter](https://view-counter.tobyhagan.com/?user=ShashCode2348/Turtle-Race)
